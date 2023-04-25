@@ -1,5 +1,5 @@
 <template>
-  <BabylonExamples/>
+  <BabylonExamples />
 </template>
 
 <script lang="ts">
